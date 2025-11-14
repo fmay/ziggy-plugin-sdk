@@ -1,0 +1,25 @@
+{
+  "name": "ziggy-sdk",
+  "version": "1.0.1",
+  "description": "SDK for developing Ziggy custom block plugins",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "ziggy",
+    "sdk",
+    "plugin",
+    "blocks",
+    "workflow"
+  ],
+  "author": "Ziggy Services",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-select": "^5.10.0",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
