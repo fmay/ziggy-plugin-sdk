@@ -1,6 +1,6 @@
 {
   "name": "ziggy-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "SDK for developing Ziggy custom block plugins",
   "type": "module",
   "main": "dist/index.js",
